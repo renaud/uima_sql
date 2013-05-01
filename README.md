@@ -7,3 +7,7 @@ Contributions:
 
 * georg.fette@uni-wuerzburg.de original creator, code hosted at http://code.google.com/p/uima-sql/
 * renaud.richardet@epfl.ch, repackaging & mavenization
+
+License:
+
+* [GNU Lesser GPL](http://www.gnu.org/licenses/lgpl.html)
